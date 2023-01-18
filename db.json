@@ -1,32 +1,6 @@
 {
     "restaurants": [
       {
-        "id": "12345e",
-        "name": "Nutshell London",
-        "rating": 4.5,
-        "price": 60000,
-        "images": [
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXS2HGcT8GL9nPtbKILB8YX8i77rPh0y-H2dwwsSHzsPIERlmNY81nm6EDu_c84DW-fXA&usqp=CAU",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5Hjxnsox-bGvu52F3janb5DpIwX2Zh93QFy3m8hoWzpkhWy6w_c61kgRgH7vohYmmDA&usqp=CAU"
-        ],
-        "category": {
-          "id": "123456d",
-          "name": "Seafood"
-        },
-        "open": true,
-        "reviews": [
-          {
-            "id": "1234ea",
-            "name": "Shavytrevd",
-            "rating": 4,
-            "text": "Dari front office smp kamar semua nya bagus. Kita akan kembali lagi. Pelayanan di restoran semua sgt baik. reef beach club, Nutshell London",
-            "images": [
-              "https://media-cdn.tripadvisor.com/media/photo-l/21/d8/c3/18/pala-restaurant.jpg"
-            ]
-          }
-        ]
-      },
-      {
         "id": "12345f",
         "name": "Bavaria",
         "rating": 5,
