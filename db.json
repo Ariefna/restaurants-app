@@ -1,32 +1,6 @@
 {
     "restaurants": [
       {
-        "id": "12345d",
-        "name": "Le Comptoir",
-        "rating": 4.4,
-        "price": 50000,
-        "images": [
-          "https://assets.bonappetit.com/photos/610aa6ddc50e2f9f7c42f7f8/master/pass/Savage-2019-top-50-busy-restaurant.jpg",
-          "https://image.shutterstock.com/image-photo/restaurant-chilling-out-classy-lifestyle-260nw-507639565.jpg"
-        ],
-        "category": {
-          "id": "123456d",
-          "name": "Seafood"
-        },
-        "open": false,
-        "reviews": [
-          {
-            "id": "1234da",
-            "name": "Randite",
-            "rating": 4,
-            "text": "Sebetulnya tidak sengaja mampir ke cafe ini, tetapi karena lokasinya strategis di ujung Malioboro dan dekat Stasiun Tugu, jadi mampir ke sini.",
-            "images": [
-              "https://media-cdn.tripadvisor.com/media/photo-f/1a/d6/51/04/nasi-goreng.jpg"
-            ]
-          }
-        ]
-      },
-      {
         "id": "12345e",
         "name": "Nutshell London",
         "rating": 4.5,
