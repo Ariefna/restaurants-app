@@ -1,32 +1,6 @@
 {
     "restaurants": [
       {
-        "id": "12345h",
-        "name": "Ayam Bakar Primarasa",
-        "rating": 4.8,
-        "price": 80000,
-        "images": [
-          "https://images.unsplash.com/photo-1600353565737-2427a1ba3d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-          "https://images.unsplash.com/photo-1600353565737-2427a1ba3d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-        ],
-        "category": {
-          "id": "123456f",
-          "name": "Jawa Food"
-        },
-        "open": true,
-        "reviews": [
-          {
-            "id": "1234gh",
-            "name": "Mierlyana",
-            "rating": 5,
-            "text": "Ketika saya mengunjungi tempat ini, kesan pertama yang saya dapat adalah begitu menikmati suasa di dalam ruangan yang begitu nyaman.",
-            "images": [
-              "https://media-cdn.tripadvisor.com/media/photo-s/09/d5/64/e1/eclairs.jpg"
-            ]
-          }
-        ]
-      },
-      {
         "id": "12345k",
         "name": "Ayam Bakar Primarasa Ahmad Yani",
         "rating": 4.8,
