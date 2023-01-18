@@ -1,32 +1,6 @@
 {
     "restaurants": [
       {
-        "id": "12345c",
-        "name": "Bar Le paris",
-        "rating": 4,
-        "price": 40000,
-        "images": [
-          "https://media-cdn.tripadvisor.com/media/photo-s/1a/18/3a/cb/restaurant-le-47.jpg",
-          "https://static.onecms.io/wp-content/uploads/sites/9/2020/04/24/ppp-why-wont-anyone-rescue-restaurants-FT-BLOG0420.jpg"
-        ],
-        "category": {
-          "id": "123456c",
-          "name": "French"
-        },
-        "open": true,
-        "reviews": [
-          {
-            "id": "1234ca",
-            "name": "RonyBilliardo",
-            "rating": 5,
-            "text": "Makanan enak dan pelayanan bagus serta sesuai dengan protokol kesehatan Covid-19 jadi merasa aman dan nyaman",
-            "images": [
-              "https://media-cdn.tripadvisor.com/media/photo-f/1d/5c/f2/31/samazana-restaurant.jpg"
-            ]
-          }
-        ]
-      },
-      {
         "id": "12345d",
         "name": "Le Comptoir",
         "rating": 4.4,
