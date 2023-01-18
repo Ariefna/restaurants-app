@@ -1,32 +1,6 @@
 {
     "restaurants": [
       {
-        "id": "12345f",
-        "name": "Bavaria",
-        "rating": 5,
-        "price": 50000,
-        "images": [
-          "https://media-cdn.tripadvisor.com/media/photo-p/12/71/ef/dc/photo1jpg.jpg",
-          "https://media-cdn.tripadvisor.com/media/photo-s/0d/d5/bd/54/langostinos.jpg"
-        ],
-        "category": {
-          "id": "123456e",
-          "name": "Italian"
-        },
-        "open": true,
-        "reviews": [
-          {
-            "id": "1234fa",
-            "name": "Feriandi",
-            "rating": 5,
-            "text": "Hotel ini luar biasa. Lokasi, kamar, resor, outlet restoran, makanan, dan staf luar biasa! Kami tidak bisa mengakhiri liburan kami dengan lebih indah. Juga seluruh tim sarapan di sekitar nya penuh perhatian",
-            "images": [
-              "https://media-cdn.tripadvisor.com/media/photo-l/1b/16/e6/83/img-20200306-084756-largejpg.jpg"
-            ]
-          }
-        ]
-      },
-      {
         "id": "12345g",
         "name": "Ayam Bakar Primarasa Kusuma Bangsa",
         "rating": 4.8,
