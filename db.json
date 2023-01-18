@@ -1,68 +1,6 @@
 {
     "restaurants": [
       {
-        "id": "12345a",
-        "name": "Steak Hut Bukit Darmo Boulevard",
-        "rating": 4,
-        "price": 20000,
-        "images": [
-          "https://images.unsplash.com/photo-1600353565318-2e8ed228435d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-          "https://images.unsplash.com/photo-1600353565318-2e8ed228435d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-        ],
-        "category": {
-          "id": "123456a",
-          "name": "Steak"
-        },
-        "open": true,
-        "reviews": [
-          {
-            "id": "1234aa",
-            "name": "John Doe",
-            "rating": 4,
-            "text": "Makanan yang disajikan begitu fresh, suasana begitu rumahan dan terasa sekali jawa nya. Tempat duduk nya sangat terbatas, ada outdoor indoor, dan lesehan. Disarankan jangan ramai ramai, atau jangan makan ketika ramai, karena mereka menyadari proses pembuatan makan nya sangat lama. Bahkan saya sempat main bola dulu sama anak anak",
-            "images": [
-              "https://media-cdn.tripadvisor.com/media/photo-s/0b/4d/d1/69/treat-cafe-resto.jpg",
-              "https://media-cdn.tripadvisor.com/media/photo-f/0b/4d/d1/6e/treat-cafe-resto.jpg"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "12345b",
-        "name": "Resto Abadi",
-        "rating": 4,
-        "price": 30000,
-        "images": [
-          "https://media-cdn.tripadvisor.com/media/photo-s/17/75/3f/d1/restaurant-in-valkenswaard.jpg",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROv0a0NsRFcEyNLeRI5Qgxr7h8_SSQv_fZdnzIbjUFBrErprY3XvKhZewnKlaq-Wf-cEE&usqp=CAU"
-        ],
-        "category": {
-          "id": "123456b",
-          "name": "Mexican"
-        },
-        "open": true,
-        "reviews": [
-          {
-            "id": "1234ba",
-            "name": "Rohaye05",
-            "rating": 4,
-            "text": "Makanannya bnyk yg enak, banyak pilihan makanan, dan terutama pelayanannya yang sangat ramah sekali",
-            "images": [
-              "https://media-cdn.tripadvisor.com/media/photo-f/21/5d/04/65/steamboat.jpg"
-            ]
-          },
-          {
-            "id": "1234bb",
-            "name": "BellaVera",
-            "rating": 4,
-            "text": "Pelayanan sangat baik, makanannya juga sangat nikmat, suasananya juga sangat mendukung untuk berdua bersama pasangan",
-            "images": [
-              "https://media-cdn.tripadvisor.com/media/photo-f/21/5d/04/1f/restaurant.jpg"
-            ]
-          }
-        ]
-      },
-      {
         "id": "12345c",
         "name": "Bar Le paris",
         "rating": 4,
